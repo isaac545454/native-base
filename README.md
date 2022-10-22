@@ -23,7 +23,7 @@
 
 <h2 style="margin-top: 20px">como rodar</h2>
 <ul>
-   <li>git clone https://github.com/isaac545454/rick</li>
+   <li>git clone https://github.com/isaac545454/native-base</li>
    <li>yarn intall(baixar o node_modules)</li> 
    <li>expo start(rodar o projeto)</li> 
 </ul>
